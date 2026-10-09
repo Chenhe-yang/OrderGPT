@@ -1,0 +1,4 @@
+raw/
+records/
+__pycache__/
+*.pyc
